@@ -1,0 +1,26 @@
+
+#make-select {
+    margin: 20px;
+}
+
+
+#model-table, #model-table th {
+    font-size: small;
+    font-weight: normal;
+}
+
+/*
+#model-table tbody tr {
+    cursor: pointer;
+}
+*/
+
+#model-table th:nth-child(n + 3) {
+    font-size: x-small;
+}
+
+#model-table .green {
+    background-color: lightblue;
+    margin-left: -8px;
+    margin-right: -8px;
+}
